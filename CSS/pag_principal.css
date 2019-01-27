@@ -1,0 +1,49 @@
+body {
+background-color: white; 
+background-repeat: repeat;
+color:black
+}
+
+
+section.menu ul{
+list-style-type: none;
+text-align: left;
+margin: 0px;
+padding: 0px;
+}
+
+section.menu li {
+display: inline;
+}
+
+section.menu li a{
+font-size: 20px;
+letter-spacing: 3px;
+text-decoration: none;
+color: #1E90FF  ;
+padding-left: 7px;
+padding-right: 7px;
+}
+
+section.menu li a:hover {
+background-color: #E0FFFF;
+}
+
+.p1{
+font-size: 15px;
+letter-spacing: 2px;
+text-decoration: none;
+color: black;
+padding: 2px;
+text-align: left;
+}
+
+.p2{
+font-size: 15px;
+letter-spacing: 2px;
+text-decoration: none;
+color: black;
+padding: 2px;
+text-align: right;
+}
+

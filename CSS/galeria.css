@@ -1,0 +1,44 @@
+body {
+background-size: absolute; 
+background-image: url(../imagens/images.jpg); 
+background-repeat: repeat;
+color: black;
+}
+
+img:hover{
+transform:scale(1.5);
+}
+
+section.menu ul{
+list-style-type: none;
+text-align: left;
+margin: 0px;
+padding: 0px;
+}
+
+section.menu li {
+display: inline;
+}
+
+
+section.menu li a{
+font-size: 20px;
+letter-spacing: 3px;
+text-decoration: none;
+color: #1E90FF ;
+padding-left: 7px;
+padding-right: 7px;
+}
+
+section.menu li a:hover {
+background-color: #E0FFFF;
+}
+
+p{
+font-size: 30px;
+letter-spacing: 2px;
+text-decoration: none;
+color: #0000CD;
+padding: 2px;
+text-align: center;
+}

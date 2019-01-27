@@ -1,0 +1,58 @@
+body {
+background-image: url(../imagens/images.jpg); 
+background-repeat: repeat;
+color: black;
+}
+
+
+fieldset{
+color: black;
+position: right;
+font-family: calibri;
+
+}
+
+section.menu ul{
+list-style-type: none;
+text-align: left;
+}
+
+section.menu ul{
+list-style-type: none;
+text-align: left;
+margin: 0px;
+padding: 0px;
+}
+section.menu li {
+display: inline;
+}
+
+
+section.menu li a{
+font-size: 20px;
+letter-spacing: 2px;
+text-decoration: none;
+color:#1E90FF;
+padding-left: 7px;
+padding-right: 7px;
+}
+
+section.menu li a:hover {
+background-color: #E0FFFF;
+}
+
+form {
+color: black;
+position: left;
+font-family: calibri;
+}
+
+p{
+font-size: 30px;
+letter-spacing: 2px;
+text-decoration: none;
+color: #0000CD;
+padding: 2px;
+text-align: center;
+}
+
